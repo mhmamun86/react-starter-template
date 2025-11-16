@@ -1,0 +1,4 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+@import 'aos/dist/aos.css';
+@import 'tw-animate-css';
